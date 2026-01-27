@@ -1,0 +1,15 @@
+Name: Devi Priya
+Schooling: Jayarani girls hr sec school, Salem
+College: Thiagarajar polytechnic collage , Salem
+Location: Tamil Nadu
+
+Experience: 2 years
+
+Skills:
+Python
+Machine Learning
+SQL
+Data Analysis
+
+Projects:
+AI Chatbot, Resume Screening System

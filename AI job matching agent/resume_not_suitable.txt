@@ -1,0 +1,14 @@
+Name: Arun Kumar
+Schooling: Matriculation School, Chennai
+College: B.A English Literature
+Location: Tamil Nadu
+
+Experience: 0 years
+
+Skills:
+HTML
+CSS
+JavaScript
+
+Projects:
+Portfolio Website
